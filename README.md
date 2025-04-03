@@ -8,6 +8,8 @@ Para asignar un dominio personalizado en Hostinger a Hestia Control Panel, sigue
 
 #### 📌 1️⃣ Adquirir y Configurar el Dominio
 
+[Ir a Hostinger](https://www.hostinger.com)
+
 1. Inicia sesión en Hostinger.
 2. Dirígete a la sección **Dominios** y selecciona **Registrar un nuevo dominio**.
 3. Escribe el nombre del dominio deseado (ejemplo: `midominio.com`).
@@ -109,6 +111,10 @@ sudo netfilter-persistent save
 
 Para comprobar que la instalación fue exitosa, accede a tu dominio y verifica que se cargue el archivo `index.html`.
 
+```md
+![Prueba de instalación de Apache](ruta/de/la/imagen.png)
+```
+
 ---
 
 ## 🔹 Configuración de HTTPS en HestiaCP
@@ -142,3 +148,8 @@ Para mejorar la seguridad de tu sitio con HTTPS:
    ```
 
 Con esto, tu dominio quedará configurado con HTTPS. 🔒✅
+
+```md
+![Comprobante de página HTTPS](ruta/de/la/imagen.png)
+```
+
